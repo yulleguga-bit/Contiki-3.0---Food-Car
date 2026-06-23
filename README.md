@@ -56,5 +56,5 @@ O arquivo de firmware `yolo_floodcar_contiki.c` define uma topologia lógica bas
 
 1. **Clonar o Repositório:**
    ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
-   cd nome-do-repositorio
+   [git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+   cd nome-do-repositorio](https://github.com/yulleguga-bit/Contiki-3.0---Food-Car.git)
