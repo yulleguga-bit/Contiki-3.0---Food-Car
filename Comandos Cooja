@@ -1,0 +1,6 @@
+cd ./contiki-3.0/tools/cooja
+
+sudo ant run
+
+
+sumo-gui
